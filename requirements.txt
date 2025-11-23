@@ -142,8 +142,7 @@ sse-starlette==2.2.1
 stack-data==0.6.3
 starlette==0.46.2
 streamlit==1.29.0
-# Editable install with no version control (SuperClaude==3.0.0)
--e /Users/woongaro/SuperClaude_Framework
+
 tenacity==8.2.3
 terminado==0.18.0
 tinycss2==1.2.1
